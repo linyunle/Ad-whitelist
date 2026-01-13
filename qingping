@@ -16,6 +16,9 @@
 @@||fusion.xiaomi.com^
 @@||fds.api.xiaomi.com^
 
+! --- 小米语音与智能联动 ---
+@@||api2.mina.mi.com^
+
 ! --- 摄像机 P2P 与 IoT 远程连接 ---
 @@||peer-relay.com^
 @@||iot.mi.com^
