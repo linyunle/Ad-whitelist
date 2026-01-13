@@ -1,20 +1,25 @@
-! --- 青萍与天气 ---
+! --- 青萍设备核心服务 ---
 @@||cleargrass.com^
 @@||qingping.co^
 @@||qingpingiot.com^
+
+! --- 天气服务 (和风/苏宁) ---
 @@||qweather.com^
 @@||heweather.net^
 @@||heweather.com^
+@@||suning.com^
 
-! --- 小米基础与固件 ---
+! --- 小米基础、固件更新与云存储 ---
 @@||mi.com^
 @@||xiaomi.com^
 @@||io.mi.com^
 @@||market.xiaomi.com^
 @@||fusion.xiaomi.com^
 @@||fds.api.xiaomi.com^
+@@||cn-beijing.aliyuncs.com^
+@@||oss-cn-beijing.aliyuncs.com^
 
-! --- 摄像机核心穿透与视频流 (流量访问关键) ---
+! --- 摄像机流量远程连接与 P2P 穿透 ---
 @@||bit-ocean.com^
 @@||p2p.mi.com^
 @@||iot-video.com^
@@ -29,6 +34,8 @@
 @@||stun.mi.com^
 @@||ott.xiaomi.com^
 
-! --- 联动与定位 ---
+! --- 智能联动、定位与时间同步 (解决刷新失败关键) ---
 @@||api2.mina.mi.com^
 @@||amap.com^
+@@||pool.ntp.org^
+@@||time.apple.com^
