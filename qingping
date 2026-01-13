@@ -1,14 +1,12 @@
-! --- 青萍核心服务 ---
+! --- 青萍与天气 ---
 @@||cleargrass.com^
 @@||qingping.co^
 @@||qingpingiot.com^
-
-! --- 天气服务 (QWeather) ---
 @@||qweather.com^
 @@||heweather.net^
 @@||heweather.com^
 
-! --- 小米/米家基础与固件更新 ---
+! --- 小米基础与固件 ---
 @@||mi.com^
 @@||xiaomi.com^
 @@||io.mi.com^
@@ -16,25 +14,21 @@
 @@||fusion.xiaomi.com^
 @@||fds.api.xiaomi.com^
 
-! --- 小米语音与智能联动 ---
-@@||api2.mina.mi.com^
-
-! --- 摄像机 P2P 与 IoT 远程连接 ---
+! --- 摄像机核心穿透与视频流 (流量访问关键) ---
+@@||bit-ocean.com^
+@@||p2p.mi.com^
+@@||iot-video.com^
 @@||peer-relay.com^
+@@||tutk.com^
+@@||gl.mi.com^
+@@||mihome.mi.com^
+@@||bjp2p.com^
+@@||ksyun.com^
 @@||iot.mi.com^
 @@||mi-iot.com^
 @@||stun.mi.com^
 @@||ott.xiaomi.com^
-@@||iot-video.com^
-@@||tutk.com^
-@@||gl.mi.com^
-@@||mihome.mi.com^
-! --- 摄像机公网连接补充 ---
-@@||mistat.xiaomi.com^
-@@||anyconnect.com^
-@@||anyconnect.net^
-@@||bjp2p.com^
-@@||ksyun.com^
 
-! --- 定位服务 (高德) ---
+! --- 联动与定位 ---
+@@||api2.mina.mi.com^
 @@||amap.com^
