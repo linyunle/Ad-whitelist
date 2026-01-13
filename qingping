@@ -1,41 +1,41 @@
-! --- 青萍设备核心服务 ---
+! [设备厂商 - 青萍]
 @@||cleargrass.com^
 @@||qingping.co^
 @@||qingpingiot.com^
 
-! --- 天气服务 (和风/苏宁) ---
+! [数据接口 - 天气与地图]
 @@||qweather.com^
 @@||heweather.net^
 @@||heweather.com^
-@@||suning.com^
+@@||amap.com^
 
-! --- 小米基础、固件更新与云存储 ---
+! [小米核心 - 状态与心跳]
 @@||mi.com^
 @@||xiaomi.com^
 @@||io.mi.com^
-@@||market.xiaomi.com^
-@@||fusion.xiaomi.com^
-@@||fds.api.xiaomi.com^
-@@||cn-beijing.aliyuncs.com^
-@@||oss-cn-beijing.aliyuncs.com^
+@@||mihome.mi.com^
+@@||iot.mi.com^
+@@||mi-iot.com^
+@@||ott.xiaomi.com^
+@@||api2.mina.mi.com^
 
-! --- 摄像机流量远程连接与 P2P 穿透 ---
-@@||bit-ocean.com^
+! [摄像机穿透 - 解决断连/慢卡]
+@@||stun.mi.com^
+@@||stun1.mi.com^
+@@||stun2.mi.com^
+@@||stun3.mi.com^
+@@||stun4.mi.com^
 @@||p2p.mi.com^
+@@||sh.p2p.mi.com^
+@@||bj.p2p.mi.com^
+@@||tj.p2p.mi.com^
+@@||bjp2p.com^
 @@||iot-video.com^
 @@||peer-relay.com^
 @@||tutk.com^
-@@||gl.mi.com^
-@@||mihome.mi.com^
-@@||bjp2p.com^
 @@||ksyun.com^
-@@||iot.mi.com^
-@@||mi-iot.com^
-@@||stun.mi.com^
-@@||ott.xiaomi.com^
 
-! --- 智能联动、定位与时间同步 ---
-@@||api2.mina.mi.com^
-@@||amap.com^
+! [系统同步 - 时间校验]
 @@||pool.ntp.org^
+@@||cn.pool.ntp.org^
 @@||time.apple.com^
