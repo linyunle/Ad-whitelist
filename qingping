@@ -27,6 +27,8 @@
 @@||sh.p2p.mi.com^
 @@||bj.p2p.mi.com^
 @@||iot-video.com^
+@@||livestreaming.io.mi.com^
+@@||*.livestreaming.io.mi.com^
 
 ! [系统时间同步] 天气API调用时间校验必须（设备时间不对天气不刷）
 @@||pool.ntp.org^
