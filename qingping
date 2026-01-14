@@ -1,23 +1,25 @@
-! [设备厂商 - 青萍] 核心域名
+! [设备厂商 - 青萍] 核心域名（绑定/固件/云服务必须）
 @@||cleargrass.com^
 @@||qingping.co^
 @@||qingpingiot.com^
 
-! [数据接口 - 天气与地图] 青萍常用
+! [数据接口 - 天气与地图] 带屏天气显示核心（和风天气全家桶，修复不更新）
 @@||qweather.com^
-@@||heweather.com^       ! heweather.net 已基本迁移，可选保留
-@@||amap.com^
+@@||dev.qweather.com^      ! 新版API常用
+@@||heweather.com^
+@@||heweather.net^         ! 旧版残留，部分设备还依赖
+@@||amap.com^              ! 定位/天气关联，高德地图
 
-! [小米核心 - 状态、心跳、控制、IoT平台]
+! [小米核心 - 状态、心跳、控制、IoT平台] 设备上线/数据同步必须
 @@||mi.com^
 @@||xiaomi.com^
 @@||io.mi.com^
 @@||mihome.mi.com^
 @@||iot.mi.com^
 @@||mi-iot.com^
-@@||api2.mina.mi.com^    ! MiNA（小爱同学）相关，常用于语音/控制
+@@||api2.mina.mi.com^      ! MiNA小爱/云心跳，数据推送
 
-! [摄像机穿透 - 仅摄像机/视频类设备需要，传感器类可删除这部分]
+! [摄像机穿透] 仅摄像机/视频设备需要，非视频传感器可删除
 @@||stun.mi.com^
 @@||stun1.mi.com^
 @@||stun2.mi.com^
@@ -26,6 +28,7 @@
 @@||bj.p2p.mi.com^
 @@||iot-video.com^
 
-! [系统时间同步 - 强烈建议保留]
+! [系统时间同步] 天气API调用时间校验必须（设备时间不对天气不刷）
 @@||pool.ntp.org^
 @@||cn.pool.ntp.org^
+@@||time.apple.com^        ! iOS设备可选
