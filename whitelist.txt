@@ -15,29 +15,3 @@
 @@||anythinktech.com^
 @@||bridgeoos.com^
 
-# ==============================
-# [Apple 核心功能服务]
-# ==============================
-@@||icloud.com^
-@@||icloud-content.com^
-@@||cdn-apple.com^
-@@||mzstatic.com^
-@@||itunes.com^
-@@||apple-cloudkit.com^
-@@||apple-mapkit.com^
-@@||apple-livephotoskit.com^
-@@||apzones.com^
-@@||apple-relay.cloudflare.com^
-@@||apple-relay.fastly-edge.com^
-@@||vertexsmb.com^
-@@||ocsp.digicert.com^
-@@||crl3.digicert.com^
-@@||crl4.digicert.com^
-
-# ==============================
-# [支付]
-# ==============================
-@@||paypal.com^
-@@||www.paypalobjects.com^
-@@||alipay.com^
-@@||alipayobjects.com^
