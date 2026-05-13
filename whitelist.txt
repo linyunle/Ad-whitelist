@@ -24,10 +24,7 @@
 @@||googleapis.com^
 @@||paypal.com^
 @@||amazon.com^
-@@||search.google.com^
 @@||oraclecloud.com^
-@@||sec.resource.xiaomi.net^
-@@||api.sec.intl.miui.com^
 
 ! === 社交与必要通讯 ===
 @@||weixin.qq.com^
@@ -39,9 +36,4 @@
 @@||mzstatic.com^
 @@||appleid.cdn-apple.com^
 
-! === 必要的功能性域名 ===
-@@||disqus.com^
-@@||db-ip.com^
-@@||000714.xyz^
-@@||blueskyxn.com^
 
