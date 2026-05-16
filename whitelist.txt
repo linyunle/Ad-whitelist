@@ -25,6 +25,8 @@
 @@||paypal.com^
 @@||amazon.com^
 @@||oraclecloud.com^
+@@||aaplimg.com^
+@@||is.autonavi.com^
 
 ! === 社交与必要通讯 ===
 @@||weixin.qq.com^
