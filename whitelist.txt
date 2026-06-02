@@ -39,4 +39,7 @@
 @@||mzstatic.com^
 @@||appleid.cdn-apple.com^
 
+! === NTP 时间同步服务放行 ===
+@@||cn.ntp.org.cn^
+
 
