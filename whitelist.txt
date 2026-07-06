@@ -31,7 +31,6 @@
 ! === 社交与必要通讯 ===
 @@||weixin.qq.com^
 @@||weixin.qq.com.cn^
-@@||51job.com
 
 ! === 苹果服务专项 (确保推送与更新正常) ===
 @@||apple.com^
