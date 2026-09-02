@@ -42,4 +42,19 @@
 ! === NTP 时间同步服务放行 ===
 @@||cn.ntp.org.cn^
 
+! Title: LINE Whitelist
+! Description: 放行 LINE 相关域名，避免被广告/隐私规则误杀
+@@||line.me^
+@@||line-apps.com^
+@@||line-scdn.net^
+@@||line-cdn.net^
+@@||line.naver.jp^
+@@||linecorp.com^
+@@||lin.ee^
+@@||line.biz^
+@@||gcld-line.com^
+@@||line-apps-beta.com^
+@@||line-apps-rc.com^
+@@||line-beta.me^
+
 
